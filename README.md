@@ -5,6 +5,7 @@ A personalized physical desk companion built around an ESP32 watch-style round d
 ## Documentation
 
 - **[Requirements Document](docs/REQUIREMENTS.md)** — hardware BOM, software architecture, functional requirements, API specs, and development phases (draft for review)
+- **[AI Desk Companion Requirements](docs/AI_DESK_COMPANION_REQUIREMENTS.md)** — MVP scope with AI integration, gateway architecture, API specs, and phased delivery plan
 
 ## Planned Features
 
